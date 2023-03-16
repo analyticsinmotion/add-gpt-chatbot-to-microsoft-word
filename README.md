@@ -110,6 +110,28 @@ The latest instructions to enable the Developer Tab from Microsoft can be found 
 
 ### 4.2 Import the Chat.bas and ChatReset.bas files
 
+**Step 1** - Download and Save the latest Chat.bas and ChatReset.bas file from the src/windows folder in this repository.
+<br />
+
+Keep the location of where the file is saved as you will need it later.<br />
+<br />
+
+**Step 2** - On the Developer tab, click the Visual Basic button.
+
+<img src=".github/assets/images/developer-tab-visual-basic.png" width=100% height=100%>
+<br />
+
+**Step 3** - On the File tab, go to Import File...
+
+<img src=".github/assets/images/visual-basic-file-import-section.png" width=100% height=100%>
+<br />
+
+**Step 4** - Add the two .bas files
+ - Select the Chat.bas file and click Open
+ - Select the ChatReset.bas file and click Open
+<br /><br />
+
+### 4.3 Add your ChatGPT button into the Microsoft Word Ribbon
 
 <br /><br />
 
