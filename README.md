@@ -33,7 +33,10 @@ https://user-images.githubusercontent.com/52817125/225483447-b59057f0-8cd8-4a75-
 - Requires an OpenAI API Key (create an account and get API Key at <a href="https://chat.openai.com">https://chat.openai.com</a>)
 - Requires Microsoft Windows 10/11 (<a href="https://www.microsoft.com/en-au/windows">https://www.microsoft.com/en-au/windows</a>)
 - Requires Microsoft Word 365 (<a href="https://www.microsoft.com/en-us">https://www.microsoft.com/en-us</a>)
-<br /><br />
+
+Please be aware of the [costs](https://openai.com/pricing) associated with using the OpenAI API when utilizing this project.
+
+<br />
     
 <!-- INSTRUCTIONS -->
 ## 3. Instructions
