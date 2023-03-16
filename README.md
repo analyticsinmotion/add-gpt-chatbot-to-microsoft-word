@@ -40,12 +40,40 @@ https://user-images.githubusercontent.com/52817125/225483447-b59057f0-8cd8-4a75-
   - Repeat the steps above to continue the chat 
   <br />
   
-  To chat about a new topic simply click the *Chat Reset* button in the AI Assistant tab
+  To chat about a new topic simply click the *Chat Reset* button in the AI Assistant tab 
   
-  
-<br /><br />
+<br />
 
-### 3.1 Text Completion Example 1
+### 3.1 Chat Completion Example 1
+
+User Message #1
+```
+Who won the world series in 2020?
+```
+
+Chatbot Reply
+```
+The Los Angeles Dodgers won the World Series in 2020.
+```
+
+User Message #2
+```
+Where was it played?
+```
+
+Chatbot Reply
+```
+The 2020 World Series was played in Arlington, Texas at Globe Life Field, the home stadium of the Texas Rangers.
+```
+<br />
+
+<strong>Conversation Flow</strong>
+> User: Who won the world series in 2020?
+> > Chatbot: The Los Angeles Dodgers won the World Series in 2020.
+
+> User: Where was it played?
+> > Chatbot: The 2020 World Series was played in Arlington, Texas at Globe Life Field, the home stadium of the Texas Rangers.
+
 
 
 <br />
@@ -82,7 +110,30 @@ The latest instructions to enable the Developer Tab from Microsoft can be found 
 
 <br /><br />
 
+### 4.4 Add your OpenAI APIKey into Windows
 
+**Step 1** - Open the Start menu and start typing "environment variables". When the best match appears click "Edit the system environment variables" result.
+
+<img src=".github/assets/images/add-env-var-step-1.png" width=75% height=75%>
+<br />
+
+**Step 2** - Click the "Environment variables" button under the "Advanced" tab.
+
+<img src=".github/assets/images/add-env-var-step-2.png" width=50% height=50%>
+<br />
+
+**Step 3** - Create a new user variable by clicking "New" under the "User Variables" section.
+
+<img src=".github/assets/images/add-env-var-step-3.png" width=50% height=50%>
+<br />
+
+**Step 4** - Type the variable name **OPENAI_API_KEY** in the first field and your OpenAI APIKEY in the variable value field. Then click OK.
+
+<img src=".github/assets/images/add-env-var-step-4.png" width=50% height=50%>
+<br />
+
+**Step 5** - **IMPORTANT** You must restart Windows to apply the new environment variable
+<br /><br />
 
 
 <!-- Best Practices for API Key Safety -->
