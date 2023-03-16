@@ -131,9 +131,62 @@ Keep the location of where the file is saved as you will need it later.<br />
  - Select the ChatReset.bas file and click Open
 <br /><br />
 
-### 4.3 Add your ChatGPT button into the Microsoft Word Ribbon
+### 4.3 Add your Chat Completion and Chat Reset buttons into the Microsoft Word Ribbon
 
+*Please Note:* This project closely relates to two of our other projects: 
+ - **Add ChatGPT to Microsoft Word** - project found <a href="https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word">here</a> 
+ - **Create ChatGPT Images in Microsoft Word** - project found <a href="https://github.com/analyticsinmotion/create-chatgpt-images-in-microsoft-word">here</a> 
+
+If you have have already added one or both of these projects into Microsoft Word you can start at Step 3 of this section.
 <br /><br />
+
+**Step 1** - Add a new tab
+<br />
+  - On the File tab, go to Options > Customize Ribbon
+  - Click New Tab
+<br />
+
+<img src=".github/assets/images/options-customize-ribbon-new-tab.png" width=40% height=40%>
+<br />
+
+ **Step 2** - Rename the New Tab to **AI Assistant**
+
+<img src=".github/assets/images/options-customize-ribbon-rename-tab.png" width=35% height=35%>
+<br />
+
+**Step 3** - Rename New Group (Custom) to **ChatBot**
+
+<img src=".github/assets/images/rename-new-group-chatbot.png" width=35% height=35%>
+<br />
+
+**Step 4** - Select Macros in the Choose Commands from dropdown box
+
+<img src=".github/assets/images/choose-commands-from-macros.png" width=35% height=35%>
+<br />
+
+**Step 5** - Select the Chat Macro and click Add >>
+
+<img src=".github/assets/images/add-the-chat-macro-into-new-group.png" width=75% height=75%>
+<br />
+
+**Step 6** - Rename button to **Chat Completion**, select a Symbol and click OK
+
+<img src=".github/assets/images/rename-button-to-chat-completion.png" width=35% height=35%>
+<br />
+
+**Step 7** - Repeat Steps 5 & 6 to to create a **Chat Reset** button
+ - Ensure you select the ChatReset Macro to link to your Chat Reset button in this step
+<br />
+
+
+
+
+
+After the preceding steps have been completed the Microsoft Word screen should look like the following:
+
+<img src=".github/assets/images/screen-after-chatbot-buttons-added.png" width=100% height=100%>
+<br />
+
 
 ### 4.4 Add your OpenAI APIKey into Windows
 
