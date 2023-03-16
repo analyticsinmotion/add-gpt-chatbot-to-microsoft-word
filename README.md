@@ -3,7 +3,10 @@ Create a powerful chatbot in Microsoft Word using ChatGPT
 <br /><br />
 
 <!-- badges: start -->
-
+![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
 <!-- badges: end -->
 
 <!-- DESCRIPTION -->
