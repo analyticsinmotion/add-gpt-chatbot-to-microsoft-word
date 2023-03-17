@@ -3,6 +3,7 @@ Create a powerful chatbot in Microsoft Word using ChatGPT
 <br /><br />
 
 <!-- badges: start -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;&nbsp;
 ![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;
 [![CI](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/actions/workflows/blank.yml/badge.svg)](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/actions/workflows/blank.yml)&nbsp;&nbsp;
@@ -35,6 +36,20 @@ https://user-images.githubusercontent.com/52817125/225483447-b59057f0-8cd8-4a75-
 - Requires Microsoft Word 365 (<a href="https://www.microsoft.com/en-us">https://www.microsoft.com/en-us</a>)
 
 Please be aware of the [costs](https://openai.com/pricing) associated with using the OpenAI API when utilizing this project.
+
+
+### 2.2 AI Models
+
+This application uses the following OpenAI model:
+ 
+| Model  | Description | Max tokens | Training data |
+| ------------- | ------------- |------------- | ------------- |
+| gpt-3.5-turbo  | Most capable GPT-3.5 model and optimized <br /> for chat at 1/10th the cost of text-davinci-003. <br /> Will be updated with our latest model iteration. | 4,096 tokens | Up to Sep 2021 |
+
+Further information about all OpenAI models can be found here: <a href="https://platform.openai.com/docs/models/overview">https://platform.openai.com/docs/models/overview</a>
+
+We endeavour to test and integrate newer models when they are become Generally Available (GA). Models released as a 'Limited Beta' will not be integrated until they become GA.
+
 
 <br />
     
