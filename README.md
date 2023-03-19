@@ -1,6 +1,6 @@
 # :speech_balloon: Add GPT Chatbot to Microsoft Word &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Create%20an%20intelligent%20chatbot%20in%20Microsoft%20Word,%20powered%20by%20the%20latest%20AI%20model%20from%20ChatGPT.&url=https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word&via=analyticsmotion&hashtags=chatbot,chatgpt,gpt4,openai,Microsoft365)
 
-Create a powerful chatbot in Microsoft Word using ChatGPT
+Create an intelligent chatbot in Microsoft Word powered by ChatGPT
 <br /><br />
 
 <!-- badges: start -->
