@@ -156,7 +156,7 @@ Keep the location of where the file is saved as you will need it later.<br />
 
 *Please Note:* This project closely relates to two of our other projects: 
  - **Add ChatGPT to Microsoft Word** - project found <a href="https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word">here</a> 
- - **Create ChatGPT Images in Microsoft Word** - project found <a href="https://github.com/analyticsinmotion/create-chatgpt-images-in-microsoft-word">here</a> 
+ - **Create Images with DALL·E in Microsoft Word** - project found <a href="https://github.com/analyticsinmotion/create-images-with-dall-e-in-microsoft-word">here</a> 
 
 If you have have already added one or both of these projects into Microsoft Word you can start at Step 3 of this section.
 <br /><br />
