@@ -1,7 +1,7 @@
 Attribute VB_Name = "ChatReset"
 '
 '
-' GPT ChatBot Reset - Version 0.1.0
+' GPT ChatBot Reset - Version 0.1.1
 '
 '
 Option Explicit

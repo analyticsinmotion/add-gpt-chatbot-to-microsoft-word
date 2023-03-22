@@ -1,7 +1,7 @@
 Attribute VB_Name = "Chat"
 '
 '
-' GPT ChatBot - Version 0.1.0
+' GPT ChatBot - Version 0.1.1
 '
 '
 Option Explicit
@@ -84,13 +84,22 @@ Sub Chat()
     .SetRequestHeader "Authorization", "Bearer " + strAPIKey
     .Send (strJSONdata)
     
+    Dim strStatus As Integer
+    strStatus = .Status
+    Dim strStatusText As String
+    strStatusText = .StatusText
+    
+    If strStatus <> 200 Then
+      MsgBox Prompt:="The OpenAI servers have experienced an error while processing your request! Please try again shortly, or for continued downtime please check the Chat status at: https://status.openai.com/"
+      Exit Sub
+    End If
+    
     Dim strResponse As String
     strResponse = .ResponseText
+      
 
-    
-
-    If Mid(strResponse, 6, 5) = "error" Then
-      MsgBox Prompt:="That ChatGPT model is currently overloaded with other requests. You can retry your request, or contact us through our help center at help.openai.com if the error persists."
+    If Mid(strResponse, 8, 5) = "error" Then
+      MsgBox Prompt:="The ChatGPT model is currently overloaded with other requests. You can retry your request, or contact us through our help center at help.openai.com if the error persists."
       Exit Sub
     End If
     
@@ -101,7 +110,7 @@ Sub Chat()
     
 
     If intStartPos = 11 Then
-      MsgBox Prompt:="That ChatGPT model is currently overloaded with other requests. You can retry your request, or contact us through our help center at help.openai.com if the error persists."
+      MsgBox Prompt:="ChatGPT is at capacity right now. Please wait a minute and try again."
       Exit Sub
     End If
     
