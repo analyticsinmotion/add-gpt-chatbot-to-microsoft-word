@@ -54,7 +54,7 @@ We endeavour to test and integrate newer models when they are become Generally A
 
 ### 2.3 OpenAI Status
 
-Should you receive error messages for a period of 5 minutes or more, please check the Labs Uptime status at the following link: <a href="https://status.openai.com/">https://status.openai.com/</a>
+Should you receive error messages for a period of 5 minutes or more, please check the Chat Uptime status at the following link: <a href="https://status.openai.com/">https://status.openai.com/</a>
 
 <br />
     
