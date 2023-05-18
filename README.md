@@ -4,13 +4,13 @@ Create an intelligent chatbot in Microsoft Word powered by ChatGPT
 <br /><br />
 
 <!-- badges: start -->
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;&nbsp;
 ![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;
 [![CI](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/actions/workflows/blank.yml/badge.svg)](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/actions/workflows/blank.yml)&nbsp;&nbsp;
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/blob/main/LICENSE.md)&nbsp;&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
+[![Analytics in Motion](https://raw.githubusercontent.com/analyticsinmotion/.github/main/assets/images/analytics-in-motion-github-badge-rounded.svg)](https://www.analyticsinmotion.com)&nbsp;&nbsp;
 <!-- badges: end -->
 
 <!-- DESCRIPTION -->
