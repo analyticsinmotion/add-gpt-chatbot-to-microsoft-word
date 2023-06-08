@@ -1,4 +1,10 @@
-<div align="center"><img src=".github/assets/images/analytics-in-motion-add-gpt-chatbot-to-microsoft-word.svg"></div>
+<div align="center">
+ 
+ ![analytics-in-motion-add-gpt-chatbot-to-microsoft-word](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/assets/52817125/7697b70f-be2f-40b2-9a67-8efa8c79796a)
+
+ </div>
+
+<!-- <div align="center"><img src=".github/assets/images/analytics-in-motion-add-gpt-chatbot-to-microsoft-word.svg"></div> -->
 
 <h1 align="center">:speech_balloon: Add GPT Chatbot to Microsoft Word</h1>
 
