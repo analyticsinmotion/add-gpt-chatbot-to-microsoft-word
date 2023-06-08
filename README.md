@@ -1,16 +1,32 @@
-# :speech_balloon: Add GPT Chatbot to Microsoft Word &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Create%20an%20intelligent%20chatbot%20in%20Microsoft%20Word,%20powered%20by%20the%20latest%20AI%20model%20from%20ChatGPT.&url=https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word&via=analyticsmotion&hashtags=chatbot,chatgpt,gpt4,openai,Microsoft365)
+<div align="center"><img src=".github/assets/images/analytics-in-motion-add-gpt-chatbot-to-microsoft-word.svg"></div>
 
-Create an intelligent chatbot in Microsoft Word powered by ChatGPT
-<br /><br />
+<h1 align="center">:speech_balloon: Add GPT Chatbot to Microsoft Word</h1>
+
+
+ 
+
 
 <!-- badges: start -->
+<div align="center">
+  
 ![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;
 [![CI](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/actions/workflows/blank.yml/badge.svg)](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/actions/workflows/blank.yml)&nbsp;&nbsp;
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/analyticsinmotion/add-gpt-chatbot-to-microsoft-word/blob/main/LICENSE.md)&nbsp;&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
+ 
+ </div>
 <!-- badges: end -->
+
+<br />
+Create an intelligent chatbot in Microsoft Word powered by ChatGPT
+<br /><br />
+
+
+
+
+
 
 <!-- DESCRIPTION -->
 ## 1. Description
